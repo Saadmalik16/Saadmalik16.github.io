@@ -883,6 +883,22 @@
             .section-title, .cta-title {
                 font-size: 36px;
             }
+
+            .section-header h2 {
+                font-size: 2.5rem;
+            }
+            
+            .services {
+                padding: 0rem 0;
+            }
+            
+            .clients {
+                padding: 0px 0;
+            }
+            
+            .client-logo {
+                padding: 10px;
+            }
             
             .nav-links {
                 display: none;
@@ -1013,5 +1029,6 @@
                 text-align: center;
             }
         }
+
 
         
