@@ -613,6 +613,10 @@
             color: white;
             transform: translateY(-3px);
         }
+
+        #contact .btn-outline {
+            color: white;
+        }
         
         /* Skills */
         .skills-container {
@@ -734,6 +738,12 @@
                 width: 350px;
                 height: 350px;
             }
+
+            .hero-content {
+                margin-top: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+            }
         }
         
         @media (max-width: 768px) {
@@ -767,6 +777,12 @@
             .profile-glow {
                 width: 300px;
                 height: 300px;
+            }
+
+            .hero-content {
+                margin-top: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
             }
         }
         
@@ -816,9 +832,21 @@
             .cursor-outline {
                 display: none;
             }
+
+            #contact .btn-outline {
+                color: white;
+                margin-bottom: 20px;
+            }
+
+            .hero-content {
+                margin-top: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+            }
             
             * {
                 cursor: auto;
             }
 
         }
+
