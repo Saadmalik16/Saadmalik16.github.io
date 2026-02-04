@@ -1000,7 +1000,6 @@
             }
             
             .nav-menu.active::before {
-                opacity: 1;
                 pointer-events: all;
             }
         }
@@ -1020,3 +1019,4 @@
                 font-size: 1.6rem;
             }
         }
+
