@@ -776,6 +776,10 @@
             .slider-dots {
                 gap: 2px !important;
             }
+
+            #home .hero-content .hero-buttons {
+                display: flex !important;
+            }
         }
         
         @media (max-width: 576px) {
@@ -838,6 +842,10 @@
 
             .slider-dots {
                 gap: 2px !important;
+            }
+
+            #home .hero-content .hero-buttons {
+                display: flex !important;
             }
             
             * {
@@ -1027,5 +1035,6 @@
                 font-size: 1.6rem;
             }
         }
+
 
 
