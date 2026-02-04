@@ -722,7 +722,7 @@
             }
             
             .project-card {
-                min-width: 350px;
+                min-width: 400px;
             }
             
             .profile-image {
@@ -756,7 +756,7 @@
             }
             
             .project-card {
-                min-width: 300px;
+                min-width: 400px;
             }
             
             .profile-image {
@@ -793,7 +793,7 @@
             }
             
             .project-card {
-                min-width: 280px;
+                min-width: 400px;
             }
             
             .profile-image {
@@ -820,4 +820,5 @@
             * {
                 cursor: auto;
             }
+
         }
