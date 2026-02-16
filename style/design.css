@@ -1036,6 +1036,14 @@
             }
         }
 
+/* Large screens */
+@media (min-width: 1600px) {
+    .navbar {
+        max-width: 1600px;
+    }
+}
+
+
 
 
 
